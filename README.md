@@ -1,7 +1,7 @@
 # Title:
 Coding with a Baby (Lessons learned from a developer with small children)
 # Abstract:
-Now you have done it...you and your spouse created a tiny human. Despite all the software you have written, the child will be your greatest creation. Did you know there are apps to track your child’s every sleeping and waking moment, as well as groups of apps which integrate to streamline your daily workflow, so you can spend more time with your family? Come and learn how a developer can survive having a baby with tips, tricks, and technologies to ease the transition into parenthood.
+Now you have done it...you and your spouse created a tiny human. Despite all the software you have written, the child will be your greatest creation. Did you know there are apps to track your child's every sleeping and waking moment, as well as groups of apps which integrate to streamline your daily workflow, so you can spend more time with your family? Come and learn how a developer can survive having a baby with tips, tricks, and technologies to ease the transition into parenthood.
 
 ### Introduction
 * Talk about my credentials
@@ -20,6 +20,7 @@ Now you have done it...you and your spouse created a tiny human. Despite all the
   + I like Todoist
   + I like LastPass
   + I like sunrise calendar
+  + The new Outlook App is great at consolidating your life
 + Your kids are only young once, so try not to use the electronic baby sitter too much
 + If the baby is not crying ... don't bother it
 + Warn your co-workers you will not be firing on all cylinders
@@ -56,3 +57,37 @@ Now you have done it...you and your spouse created a tiny human. Despite all the
 + While the iphone is a great invention...zipper pajama's were created by a true genius
   + snap pajamas are more difficult than writting a web app in assembly
     + button pajamas - forget about it - it is like coding blind folded
+
+# Three Sections
+## Technology to help during pregnancy and infancy
+## How to keep up with technology now that you have no time
+## Use of technology by kids
+
+
+## Extra Notes
++ Goals are achieved and inch at a time, in order to move your goal forward you can spend an hour every evening
+	+ so you need to break up your goals into small chunks
+	+ a way to store your tasks, so that you can jump into the flow as quickly as possible
++ http://blog.codinghorror.com/on-parenthood/
+	+ a good article on a parent and developer, kind of emotional stuff
++ http://spin.atomicobject.com/2014/09/06/development-and-parenting/ 
+	+ article about how being a parent is like developing software
+possible content:
+
++        Stages of kids with technology
++        Rules for technology
++   Time limits
++   Bullying
++   Online presence later in life
++   Weekend vs weekday
++   Where in the house
++        At what age to give a kid a cell/tablet? Why?
++        The dangers of technology
++        Common sense media app
++        Online safety
++        Photo of rowan carrying around cords at age 1
++        http://www.huffingtonpost.com/andrea-smith/7-new-tech-gadgets-parent_b_6503948.html
++        http://www.nytimes.com/2014/09/11/fashion/steve-jobs-apple-was-a-low-tech-parent.html?_r=0
++        http://www.dailymail.co.uk/news/article-2612085/You-dont-run-Google-Hilarious-texts-tech-troubled-parents-baffled-children.html
++        http://www.parentfurther.com/resources/enewsletter/e-parenting
++        http://www.pcmag.com/slideshow/story/308706/11-tech-gadgets-for-babies
