@@ -7,6 +7,7 @@ Now you have done it...you and your spouse created a tiny human. Despite all the
 * Talk about my credentials
 * Talk about my children
   * Show pictures of both children
++ links to presentation
 ### The problem
 + work life balance
 + annecdotes about coding with children
@@ -57,9 +58,30 @@ Now you have done it...you and your spouse created a tiny human. Despite all the
 + While the iphone is a great invention...zipper pajama's were created by a true genius
   + snap pajamas are more difficult than writting a web app in assembly
     + button pajamas - forget about it - it is like coding blind folded
-
+# Introduction
+## About Me
++ Professional Stuff
++ 15 years experience
++ Work for HMB
++ Architect
++ General Software Enthusiest
++ Father
+## About Family
++ 2 kids R and G
+  + Pics of boys with tech
++ Wife B
++ Description of when babies were born and where I was in my career
+  + Perhaps talk about how to prepare your coworkers and team for your absence
+  + I managed to birth my first one between releases
+  + Second one I brought in a friend of
 # Three Sections
 ## Technology to help during pregnancy and infancy
+### Best Apps
++ Brestfeeding timings
++ Times peeded and pooped
++ contraction timmer
++ Apps to watch the baby via webcam
+  + Build your own monitor with a Raspberry pi
 ## How to keep up with technology now that you have no time
 ## Use of technology by kids
 
@@ -70,7 +92,7 @@ Now you have done it...you and your spouse created a tiny human. Despite all the
 	+ a way to store your tasks, so that you can jump into the flow as quickly as possible
 + http://blog.codinghorror.com/on-parenthood/
 	+ a good article on a parent and developer, kind of emotional stuff
-+ http://spin.atomicobject.com/2014/09/06/development-and-parenting/ 
++ http://spin.atomicobject.com/2014/09/06/development-and-parenting/
 	+ article about how being a parent is like developing software
 possible content:
 
@@ -78,7 +100,7 @@ possible content:
 +        Rules for technology
 +   Time limits
 +   Bullying
-+   Online presence later in life
++   Online presence later in life - be afraid of how this might impact them in the future
 +   Weekend vs weekday
 +   Where in the house
 +        At what age to give a kid a cell/tablet? Why?
@@ -91,3 +113,4 @@ possible content:
 +        http://www.dailymail.co.uk/news/article-2612085/You-dont-run-Google-Hilarious-texts-tech-troubled-parents-baffled-children.html
 +        http://www.parentfurther.com/resources/enewsletter/e-parenting
 +        http://www.pcmag.com/slideshow/story/308706/11-tech-gadgets-for-babies
++ What about the idea of building your own baby monitor with raspberry pi's
