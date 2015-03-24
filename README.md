@@ -74,6 +74,15 @@ Now you have done it...you and your spouse created a tiny human. Despite all the
   + Perhaps talk about how to prepare your coworkers and team for your absence
   + I managed to birth my first one between releases
   + Second one I brought in a friend of
++ there is a section here to talk about how to prepare for a long term departure
+  + communication plan how, when, and if they need to get in touch with you (sla)
+  + work coverage and sprint planning
+  + FMLA and benefits, I took FMLA every Wednesday for four months
+## In hospital
++ control music via Bluetooth speaker
++ Have email with people ready, or text, or Facebook 
++ talk with spouse on what should be recorded and what should not
++ don't pass out 
 # Three Sections
 ## Technology to help during pregnancy and infancy
 ### Best Apps
