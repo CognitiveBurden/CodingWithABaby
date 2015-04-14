@@ -120,6 +120,7 @@ Now you have done it...you and your spouse created a tiny human. Despite all the
 ##  The New Reality strategies to cope with your limited time
 + The new reality is you have less time on your hands.
     * TODO: find way to info graphic show less time or research the amount of time you lose when you have a baby
+        - Instead just make it up...when you were single in college you had 6 hours of school and 18 hours of free time, when you got married it was like 8 hours of work 4 hours with wife 8 hours sleep 4 hours free time, when you have a baby...8 hours of work, 8 hours with the baby 4 hours for wife and 4 hours sleep.
     * Your coworkers may talk about exotic topics like "Free Time", having slept poorly because they only got 7 hours of sleep, and drinking beer
     * You will grace your coworkers with pictures that can never truely capture the pure joy of a smile and the feeling a baby snuggled in for a midday nap
         - TODO: pictures of boys smiling
@@ -268,6 +269,12 @@ possible content:
 +        Photo of rowan carrying around cords at age 1
 +        http://www.huffingtonpost.com/andrea-smith/7-new-tech-gadgets-parent_b_6503948.html
 +        http://www.nytimes.com/2014/09/11/fashion/steve-jobs-apple-was-a-low-tech-parent.html?_r=0
++        http://www.reuters.com/article/2007/02/21/us-microsoft-gates-daughter-idUSN2022438420070221
++        https://kaiserfamilyfoundation.files.wordpress.com/2013/04/8010.pdf
++        http://www.amazon.com/Virtual-Child-terrifying-technology-children/dp/1453719520/ref=pd_sim_sbs_b_1?ie=UTF8&refRID=0ZAAF5YZQ76DDS2C4JHK
++        http://www.amazon.com/Wired-Child-Debunking-Popular-Technology/dp/150321169X/
++        http://www.amazon.com/The-Big-Disconnect-Protecting-Relationships/dp/0062082434/ref=pd_sim_sbs_b_2?ie=UTF8&refRID=0ZAAF5YZQ76DDS2C4JHK
++        http://richardfreed.com/blog/books-vs-e-readers-choose-books-to-help-kids-read/
 +        http://www.dailymail.co.uk/news/article-2612085/You-dont-run-Google-Hilarious-texts-tech-troubled-parents-baffled-children.html
 +        http://www.parentfurther.com/resources/enewsletter/e-parenting
 +        http://www.pcmag.com/slideshow/story/308706/11-tech-gadgets-for-babies
