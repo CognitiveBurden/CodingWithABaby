@@ -59,11 +59,17 @@ Now you have done it...you and your spouse created a tiny human. Despite all the
     * You will have many months to inform your project leaders about the upcoming baby
     * Tell them when you feel comfortable ?after first trimester
 + Communication plan
-    * Talk to your stakeholders, PMs, and CoWorkers on your exciting news
+    * First talk to your boss about the exciting news, and formulate plan on how to inform
+        - your stakeholders, PMs, and CoWorkers 
     * Formulate the time you would like to talk off for the baby and talk timeline
-        - Know your rights and policies 
-            - Company Policy for Maternity and Paternity leave
-            - Family Medical Leave Act (FMLA)
+    * If someone is taking over your work and interacting with stakeholders, introduce them early and begin including them in on meetings.
+    * Know your rights and policies 
+        * Company Policy for Maternity and Paternity leave
+        * Family Medical Leave Act (FMLA)
+        * What costs your medical coverage
+        * Short Term Disability, sometimes you have to elect
+        * Checklist of documents you will need to have your baby
+            - http://www.babycenter.com/maternity-leave-checklist
     * For the first baby I took one week off to start with the new baby and wife
         - Then I took another week at 1 month to watch the baby while my wife started work
         - I used FMLA for the next 4 months to take off every Wednesday to spend with the baby (unpaid)
@@ -74,10 +80,12 @@ Now you have done it...you and your spouse created a tiny human. Despite all the
         - In my experience if you give people enough warning of the changes that will occur they are very supportive and excited for you
         - When and if you will respond to emails or phone calls
 + Remove yourself as primary on anything
+    * Help others prepare to take on your responsiblities
     * You will be out for a bit, make sure others know how to do your work
     * as you get closer to the delivery date, begin taking on non-critical tasks
         - At the end of the day ensure someone knows where you are on tasks
 + Form relationships with your co workers
+    * Create your own support network
     * You will need there help as your brain power diminishes due to sleep deprivation
 
 
@@ -144,6 +152,10 @@ Now you have done it...you and your spouse created a tiny human. Despite all the
 + Spend some time each week staging content for you
 + Select a topic and spend a couple of weeks diving into that topic
 + Having the content staged will ensure that you can continue learning on one topic
++ Be mobile...you will get short bursts on time...utilize them to acheive something
+    * You never know when a baby will pass out...most likely while walking through mall
+        - Man I wish I had that article I was reading
++ 
 + Use conferences as a way to jump start interesting topics
     * I like to create items on the todo list as a take away item from each session I attend
 + Find a friend
@@ -163,8 +175,50 @@ Now you have done it...you and your spouse created a tiny human. Despite all the
     * TODO: Move this whole section to after birth.
 
 ## Children with Technology
+### Protect Devices
++ put bumpers on devices
++ Secure devices from innappropriate access
+    * http://lifehacker.com/5946947/how-can-i-kid-proof-my-pc-and-gadgets
+
 ### Notes from the corner office (Tech leaders)
 + TODO: Would like more sources for this part, don't want to be single sourced
++ Industry leaders limit the technology their kids can use
+    * Steve Job's did not allow gadgets at dinner table, and talk about books, history, and other things
+    * Bill Gates - held off his daugther from hard-core computer use until 10 and limits game play to 45 minutes
+    * Chris Anderson, former editor of Wired, institute time limit an parental control on all devices in the house
+        - No screens in the bedroom
+    * Evan Williams, founder of Blogger, Twitter, and Medium gave children hundreds of books instead of ipads
+    * Ali Partovi, a founder of iLike and advisor to facebook, dinstinguishes passive vs active media interactions
+    * Dick Costolo, chief executive of Twitter, decided to allow unlimited usage but only in the living room
+    * 
+    * Why?
+        - Studies show that excessive media can lead to attention problems, school difficulties, sleep and eating disorders
+            + The American Academy of Pediatrics children and teens should engage with entertainment media for no more than one to two hourse per day.
+            + there is no educational value in screen time for kids under 2
+        - sleep disorder
+        - obesity
+            + more exposure to marketing
+        - behavioral problems
+        - Academic performance
+        - violence - desensitized
+        - Less time for play - active or creative
+        - Limit exposure to harmful content, porn
+        - Bullying from other kids
+        - Addiction to devices
+        - Want to foster imagination, creativity, and wonder
+            + Our generation has created some amazing things, but we all started without ubiquitous tech
+        - all these playtime gadgets can distance families, hurt academic success, and pose the risk of addiction
+        - If you don't let kids have some access they may binge when they get older
+    * How can you implement these strategies?
+        - Talk about how reducing sitting and encouraging movement promotes a health life
+        - Be a good role model in your use of electronics in front of children
+        - Log the amount of time child in front of any screen, computer, phone, tablet, DS, etc
+        - set screen time limits
+        - Create screen free bedrooms
+        - Meal Time == Family Time, no gadgets
+        - Provide other habits, family exercise, reading physical books
+        - Don't use screen time as reward or punishment, b/c makes devices seem more important
+        - encourage active screen time, jumping jacks on commercials 
 ### Digital Guardians
 * How do we manage our children's digital persona?
     - Do you put pictures and names of children on public websites
@@ -172,9 +226,42 @@ Now you have done it...you and your spouse created a tiny human. Despite all the
     - Do you reserve digital domains for your children?
     - Can we give our children a leg up on creating an easily identifiable digital persona?
 
+### How to teach coding
++ There are some good apps to help teach coding
+    * Koadable 
+    * Hopscotch
+    * Scratch
+
 ## References
+### Bio
++ Github address
++ Twitter Handle
++ Blog
++ Link to presentation
+
+### Having the Baby
++ http://www.babycenter.com/maternity-leave-checklist
+
+### Get Organized
++ http://lifehacker.com/how-to-prepare-your-career-before-having-a-baby-1686911785
+
+### Children With Technology
++ http://lifehacker.com/5946947/how-can-i-kid-proof-my-pc-and-gadgets
++ https://www.aap.org/en-us/advocacy-and-policy/aap-health-initiatives/pages/media-and-children.aspx
++ http://www.nhlbi.nih.gov/health/educational/wecan/reduce-screen-time/tips-to-reduce-screen-time.htm
++ http://www.nytimes.com/2014/09/11/fashion/steve-jobs-apple-was-a-low-tech-parent.html
+
+#### How to teach coding
++ http://allthingsd.com/20130506/can-these-ipad-apps-teach-your-kid-to-code/
++ https://itunes.apple.com/us/app/kodable/id577673067?mt=8
++ https://itunes.apple.com/us/app/hopscotch-hd/id617098629?mt=8
++ http://www.edutopia.org/blog/7-apps-teaching-children-coding-anna-adam
++ https://scratch.mit.edu/
 
 
+### TODO:
++ put easter egg pictures of the babies throughout the presentation
++ big picture of Ben to thank him for his help when I went on paternity leave
 
 ******************************************************************************
 # Old Stuff
