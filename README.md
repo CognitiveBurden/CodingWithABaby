@@ -125,6 +125,20 @@ Now you have done it...you and your spouse created a tiny human. Despite all the
         - http://www.nationwidechildrens.org/make-safe-happen
     * Maybe this should go in a different section b/c it is after being born...to stick to you timeline, but maybe this fits in b/c we will be taking care off all the baby stuff here
 
+#### Geek out
++ Self closing strollers with phone charger, which uses wheels to generate energy
++ Self warming bottles
++ Smart Scale to track your babies weight
++ Games using toddler toys and your tablet
++ Your own ultrasound which works with smart phone
++ Monitor baby with pulse oximetry boot, get heart rate and oxygent content of baby
++ Adaptive cases for iphone, textured handles lets toddlers play with expensive device
++ Baby bouncer that moves like a human to rock kids to sleep
++ Baby monitor which provides video, temperature, humidity, and plays music
++ Raspberry Pi and Arduino baby projects
+    * Video monitor
+    * Interactive Child's mobile
+
 ##  The New Reality strategies to cope with your limited time
 + The new reality is you have less time on your hands.
     * TODO: find way to info graphic show less time or research the amount of time you lose when you have a baby
@@ -137,6 +151,9 @@ Now you have done it...you and your spouse created a tiny human. Despite all the
 + TODOIST
 + Sunrise Calendar
 + Outlook app for IOS
++ LastPass - Password vault
++ UnRoll.Me
+    * https://unroll.me/
 + Pomodoro's
     * 30/30 App
     * Stay focused "Music to Code By"
@@ -159,14 +176,15 @@ Now you have done it...you and your spouse created a tiny human. Despite all the
 + Use conferences as a way to jump start interesting topics
     * I like to create items on the todo list as a take away item from each session I attend
 + Find a friend
-    * Just 
+    * Just like a spotter at the gym or workout buddy, someone to push you and make you better
 
 ### Work Life balance
 + talk about exercise and 7 minute workouts
+    * TODO: App for 7 minute workout
 + Take some time to be alone with your significant other, get a baby sitter your child will be fine
 
 ### Other
-+ Changes in your engagement as a result of the new baby
++ Changes in your daily work engagement as a result of the new baby
     * You will have less time for overtime...good planning is needed to limit overtime
     * You will be fuzzy from lack of sleep
         - My CoWorkers kept a running total of number of days without good sleep
@@ -181,10 +199,24 @@ Now you have done it...you and your spouse created a tiny human. Despite all the
     * http://lifehacker.com/5946947/how-can-i-kid-proof-my-pc-and-gadgets
 
 ### Notes from the corner office (Tech leaders)
-+ TODO: Would like more sources for this part, don't want to be single sourced
++ Common Sense Media did study and found about half of all families with incomes over 75,000 had downloaded apps for their young children
+    * Amoung all children under 2 they average 53 minutes of tv or dvds more than twice the average time children are read to, 23 minutes
+    * Almost one third of children under 2 have tv in their bedroom
+    * 12 percent of children 2 to 4 use a computer every day, and 24 percent use it once a week
++ Stats on average usage
+    * By 3 months old, 40% of children regularly consume electronic media.  By 24 months, 90%.
+    * Screen Time Trends for kids under 6:
+        *   52% of kids under 1 watched daily TV (30% watched videos), 2.5 hours/day
+        *   60% of 1 year-olds watched TV; 47% videos; 3 hours/day
+        *   71% of  2 year-olds watched TV; 53% videos; 3+ hours/day
++ There is a trend of decreased screen time from 2 hours 16 minutes in 2011 to only 1 hour 55 minutes in 2013
+    * Increase of 10% in mobile usage
+    * https://www.commonsensemedia.org/zero-to-eight-2013-infographic       
++ American Academy of Pediatrics (AAP) discourages screen time for kids under 2 and advises limiting daily screen time to one to two hours for older kids.
 + Industry leaders limit the technology their kids can use
     * Steve Job's did not allow gadgets at dinner table, and talk about books, history, and other things
     * Bill Gates - held off his daugther from hard-core computer use until 10 and limits game play to 45 minutes
+        - His son asked if he was going to have limits on screen time his whole life? Bill said "when you move away you can set your own screen limits."
     * Chris Anderson, former editor of Wired, institute time limit an parental control on all devices in the house
         - No screens in the bedroom
     * Evan Williams, founder of Blogger, Twitter, and Medium gave children hundreds of books instead of ipads
@@ -209,6 +241,7 @@ Now you have done it...you and your spouse created a tiny human. Despite all the
             + Our generation has created some amazing things, but we all started without ubiquitous tech
         - all these playtime gadgets can distance families, hurt academic success, and pose the risk of addiction
         - If you don't let kids have some access they may binge when they get older
+        - Reduction in fine motor skills because of too much time with touch devices
     * How can you implement these strategies?
         - Talk about how reducing sitting and encouraging movement promotes a health life
         - Be a good role model in your use of electronics in front of children
@@ -219,12 +252,27 @@ Now you have done it...you and your spouse created a tiny human. Despite all the
         - Provide other habits, family exercise, reading physical books
         - Don't use screen time as reward or punishment, b/c makes devices seem more important
         - encourage active screen time, jumping jacks on commercials 
+        - No gadgets during the week and only 30 min to 2 hours on weekend
+        - Some parent do not let their teens have social media accounts except services like snapchat which delete messages after they are sent
+        - Differentiate passive consumption from creation time, which is similar to playing piano or writing
+        - Some Silicon Valley parents send their kids to Waldorf School in Los Altos, which focuses on hands on learing, so there are no computers
+        - 
 ### Digital Guardians
 * How do we manage our children's digital persona?
     - Do you put pictures and names of children on public websites
     - How do you communicate about your children to others
     - Do you reserve digital domains for your children?
     - Can we give our children a leg up on creating an easily identifiable digital persona?
+        + Squat on accounts?
+    - TODO: Some other services which are ephemeral like Snapchat which deletes messages
+* Personal Privacy refers to you kid's online reputation
+* Consumer Privacy refers to data companies can collect about your kids during online interactions and transactions
+* Use strict privacy settings in apps and websites
+* Know your kids passwords to social media sites
+* Teach kids to be aware of personal information they are giving away online
+* The Children's Online Privacy Protection Act, prevents kid-targeted websites and apps from collecting data on kids younger than 13 without parental consent
+* Never let kid share name, school's name, age,phone number, email, home address with strangers
+* Never open email from strangers
 
 ### How to teach coding
 + There are some good apps to help teach coding
@@ -241,6 +289,7 @@ Now you have done it...you and your spouse created a tiny human. Despite all the
 
 ### Having the Baby
 + http://www.babycenter.com/maternity-leave-checklist
++ http://www.pcmag.com/slideshow/story/308706/11-tech-gadgets-for-babies
 
 ### Get Organized
 + http://lifehacker.com/how-to-prepare-your-career-before-having-a-baby-1686911785
@@ -250,6 +299,20 @@ Now you have done it...you and your spouse created a tiny human. Despite all the
 + https://www.aap.org/en-us/advocacy-and-policy/aap-health-initiatives/pages/media-and-children.aspx
 + http://www.nhlbi.nih.gov/health/educational/wecan/reduce-screen-time/tips-to-reduce-screen-time.htm
 + http://www.nytimes.com/2014/09/11/fashion/steve-jobs-apple-was-a-low-tech-parent.html
++ http://theunboundedspirit.com/why-steve-jobs-didnt-let-his-kids-use-ipads/
+    * http://waldorfpeninsula.org/
++ http://www.telegraph.co.uk/education/educationnews/10767878/Infants-unable-to-use-toy-building-blocks-due-to-iPad-addiction.html
++ http://www.sensomotorische-integratie.nl/CrisRowan.pdf
++ http://richardfreed.com/wired-child/
++ http://www.nytimes.com/2011/10/25/us/screen-time-higher-than-ever-for-children-study-finds.html
++ https://www.commonsensemedia.org/
++ http://www.parentfurther.com/resources/enewsletter/e-parenting
++ http://www.bluemanateebooks.com/home/digital_playground_data/screen_time_trends.html
++ https://www.parentmap.com/article/are-kids-watching-less-common-sense-media-study-spotlights-screen-time-trends
++ https://itunes.apple.com/us/app/kids-media/id504932051?mt=8
+
+####Digital Gaurdians
++ https://www.commonsensemedia.org/privacy-and-internet-safety/how-do-i-protect-my-kids-privacy-online
 
 #### How to teach coding
 + http://allthingsd.com/20130506/can-these-ipad-apps-teach-your-kid-to-code/
@@ -267,35 +330,15 @@ Now you have done it...you and your spouse created a tiny human. Despite all the
 # Old Stuff
 ******************************************************************************
 
-### The problem
-+ annecdotes about coding with children
-
 + Your co-workers may talk about exotic things like "Free Time", Drinking Beer, and Sleeping for 10 hours
-+ Listening to a podcast or watching a tech talk with the baby is sleeping on you is totally far game
-  + Just remember to prep everything you are going to need before your wife hands over the baby
-  + Best thing I ever bought for use with my IPad bluetooth headset
-+ You are going to forget things
-  + Get a todo list
-  + I like Todoist
-  + I like LastPass
-  + I like sunrise calendar
-  + The new Outlook App is great at consolidating your life
 + Your kids are only young once, so try not to use the electronic baby sitter too much
-+ If the baby is not crying ... don't bother it
 + Warn your co-workers you will not be firing on all cylinders
-+ Know that your temper will be short and relax
 + You will eventually get all your smarts back
-+ You will wonder what you did with all your time before kids
-  + we would sleep till 9 am on Sundays, then make waffles and watch meet the press. Is George Bush still the President?
 + If your wife is on maternity leave see if you can trade her some early even hours for a contiguous block of sleep for you
   + 6 hours of contiguous sleep is worth more than 8 hours of interrupted sleep
   + Remind your wife that this will be the only time this child is a baby and that she should take more maternity time
 + Discuss with your wife the plan of attack in the middle of the night, make sure she is explicit
   + You will reach a point where you will rationalize not following the plan so you can get more sleep
-+ There are apps which time how long a baby has feed, when was the last time you changed the baby, and how many times it has peed...use them
-+ All time which you have to be away from your child becomes precious to your career.
-  + Use commute time to catch up on podcasts
-  + lunch breaks should still be used to break away from your project's issues, but you can and should use that time to further a goal
 + No matter how cute and wonderful your baby is...you will think ok, that thing is awesome, can I go back to work now?
 + Interestingly enough your co-workers are NOT interested in color or consistency of your child's poop
 + If you can go out to a company happy hour, it will seem like a vegas style oasis, big lights lots of excitement and booze
@@ -306,31 +349,11 @@ Now you have done it...you and your spouse created a tiny human. Despite all the
     + A baby's smile and laugh is the purest form of joy
     + you will try to create an infinit loop of smiles and laughs
 + Do not take picture of the baby coming out with your phone...your wife will not appreciate it...had to learn that the hard way
-+ Exercise becomes a lower priority
-  + Try 7 minute workouts in the morning
-+ Find a babysitter and go out every once in awhile
-  + the baby will be fine
-  + you and your wife will be better for it
 + Make no bones about it for a significant period of time after the baby is born...you will be in survival mode
-+ My threshold for raising my children is to limit sever head trama till they are older than 1
 + While the iphone is a great invention...zipper pajama's were created by a true genius
   + snap pajamas are more difficult than writting a web app in assembly
     + button pajamas - forget about it - it is like coding blind folded
     
-## In hospital
-
-+ don't pass out 
-# Three Sections
-## Technology to help during pregnancy and infancy
-### Best Apps
-+ Brestfeeding timings
-+ Times peeded and pooped
-+ contraction timmer
-+ Apps to watch the baby via webcam
-  + Build your own monitor with a Raspberry pi
-## How to keep up with technology now that you have no time
-## Use of technology by kids
-
 
 ## Extra Notes
 + Goals are achieved and inch at a time, in order to move your goal forward you can spend an hour every evening
@@ -340,29 +363,7 @@ Now you have done it...you and your spouse created a tiny human. Despite all the
 	+ a good article on a parent and developer, kind of emotional stuff
 + http://spin.atomicobject.com/2014/09/06/development-and-parenting/
 	+ article about how being a parent is like developing software
-possible content:
-
-+        Stages of kids with technology
-+        Rules for technology
-+   Time limits
-+   Bullying
 +   Online presence later in life - be afraid of how this might impact them in the future
-+   Weekend vs weekday
-+   Where in the house
-+        At what age to give a kid a cell/tablet? Why?
-+        The dangers of technology
-+        Common sense media app
-+        Online safety
-+        Photo of rowan carrying around cords at age 1
-+        http://www.huffingtonpost.com/andrea-smith/7-new-tech-gadgets-parent_b_6503948.html
-+        http://www.nytimes.com/2014/09/11/fashion/steve-jobs-apple-was-a-low-tech-parent.html?_r=0
-+        http://www.reuters.com/article/2007/02/21/us-microsoft-gates-daughter-idUSN2022438420070221
-+        https://kaiserfamilyfoundation.files.wordpress.com/2013/04/8010.pdf
-+        http://www.amazon.com/Virtual-Child-terrifying-technology-children/dp/1453719520/ref=pd_sim_sbs_b_1?ie=UTF8&refRID=0ZAAF5YZQ76DDS2C4JHK
-+        http://www.amazon.com/Wired-Child-Debunking-Popular-Technology/dp/150321169X/
-+        http://www.amazon.com/The-Big-Disconnect-Protecting-Relationships/dp/0062082434/ref=pd_sim_sbs_b_2?ie=UTF8&refRID=0ZAAF5YZQ76DDS2C4JHK
-+        http://richardfreed.com/blog/books-vs-e-readers-choose-books-to-help-kids-read/
-+        http://www.dailymail.co.uk/news/article-2612085/You-dont-run-Google-Hilarious-texts-tech-troubled-parents-baffled-children.html
-+        http://www.parentfurther.com/resources/enewsletter/e-parenting
-+        http://www.pcmag.com/slideshow/story/308706/11-tech-gadgets-for-babies
-+ What about the idea of building your own baby monitor with raspberry pi's
++ TODO: Photos of R and G carrying around cords at age 1
+
+
