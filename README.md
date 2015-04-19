@@ -65,7 +65,7 @@ Now you have done it...you and your spouse created a tiny human. Despite all the
     * If someone is taking over your work and interacting with stakeholders, introduce them early and begin including them in on meetings.
     * Know your rights and policies 
         * Company Policy for Maternity and Paternity leave
-        * Family Medical Leave Act (FMLA)
+        * Family Medical LeRave Act (FMLA)
         * What costs your medical coverage
         * Short Term Disability, sometimes you have to elect
         * Checklist of documents you will need to have your baby
@@ -123,6 +123,9 @@ Now you have done it...you and your spouse created a tiny human. Despite all the
 + Technology and apps to help secure your home for house hold accidents
     * TODO: Find nationwides "Make Safe Happen Mobile Application"
         - http://www.nationwidechildrens.org/make-safe-happen
+    * Journal all the events of your child
+        - http://dayoneapp.com/
+        - https://www.lifecake.com/
     * Maybe this should go in a different section b/c it is after being born...to stick to you timeline, but maybe this fits in b/c we will be taking care off all the baby stuff here
 
 #### Geek out
@@ -288,7 +291,19 @@ Now you have done it...you and your spouse created a tiny human. Despite all the
 + Link to presentation
 
 ### Having the Baby
+#### Pregnancy
++ http://www.babycenter.com/pregnancy
++ https://itunes.apple.com/us/app/my-pregnancy-today-babycenter/id386022579?mt=8
++ https://itunes.apple.com/us/app/50-000-baby-names-free/id363724891?mt=8
++ https://itunes.apple.com/us/app/happy-pregnancy-ticker/id449267797?mt=8
++ https://itunes.apple.com/us/app/full-term-labor-contraction/id382013176?mt=8
++ https://itunes.apple.com/us/app/baby-names!!/id412443566?mt=8
+
+#### Planning
 + http://www.babycenter.com/maternity-leave-checklist
++ http://www.pcmag.com/slideshow/story/308706/11-tech-gadgets-for-babies
++ http://dayoneapp.com/
++ https://www.lifecake.com/
 + http://www.pcmag.com/slideshow/story/308706/11-tech-gadgets-for-babies
 
 ### Get Organized
@@ -367,3 +382,5 @@ Now you have done it...you and your spouse created a tiny human. Despite all the
 + TODO: Photos of R and G carrying around cords at age 1
 
 
+#Extra
++ http://www.healthline.com/health-slideshow/top-pregnancy-iphone-android-apps#1
