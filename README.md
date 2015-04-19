@@ -298,6 +298,11 @@ Now you have done it...you and your spouse created a tiny human. Despite all the
 + https://itunes.apple.com/us/app/happy-pregnancy-ticker/id449267797?mt=8
 + https://itunes.apple.com/us/app/full-term-labor-contraction/id382013176?mt=8
 + https://itunes.apple.com/us/app/baby-names!!/id412443566?mt=8
++ http://www.babybookie.com/
+
+#### Delivery
++ https://www.bornyet.com/
++ http://www.birthvillage.com/birth-announcements.php
 
 #### Planning
 + http://www.babycenter.com/maternity-leave-checklist
@@ -308,6 +313,12 @@ Now you have done it...you and your spouse created a tiny human. Despite all the
 
 ### Get Organized
 + http://lifehacker.com/how-to-prepare-your-career-before-having-a-baby-1686911785
++ https://todoist.com/
++ https://calendar.sunrise.am/
++ http://3030.binaryhammer.com/
++ https://itunes.apple.com/us/app/microsoft-outlook/id951937596?mt=8
++ http://pomodorotechnique.com/
++ http://mtcb.pwop.com/
 
 ### Children With Technology
 + http://lifehacker.com/5946947/how-can-i-kid-proof-my-pc-and-gadgets
