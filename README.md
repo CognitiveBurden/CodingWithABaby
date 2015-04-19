@@ -119,7 +119,8 @@ Now you have done it...you and your spouse created a tiny human. Despite all the
 
 ### Early years
 + Apps to track when your baby has fed, peed, and pooped
-    * TODO: List some apps I used
+    * MammaBaby
+        - http://mammababy.lifenstats.com
 + Technology and apps to help secure your home for house hold accidents
     * TODO: Find nationwides "Make Safe Happen Mobile Application"
         - http://www.nationwidechildrens.org/make-safe-happen
@@ -130,17 +131,34 @@ Now you have done it...you and your spouse created a tiny human. Despite all the
 
 #### Geek out
 + Self closing strollers with phone charger, which uses wheels to generate energy
+    * https://www.4moms.com/origami
 + Self warming bottles
 + Smart Scale to track your babies weight
 + Games using toddler toys and your tablet
 + Your own ultrasound which works with smart phone
+    * http://www.mobisante.com/products/product-overview/
 + Monitor baby with pulse oximetry boot, get heart rate and oxygent content of baby
+    * https://www.owletcare.com/
 + Adaptive cases for iphone, textured handles lets toddlers play with expensive device
 + Baby bouncer that moves like a human to rock kids to sleep
+    * https://www.4moms.com/rockaroo
 + Baby monitor which provides video, temperature, humidity, and plays music
 + Raspberry Pi and Arduino baby projects
+    * http://mattkaar.com/blog/2012/12/01/raspberry-pi-as-a-baby-monitor/
+    * http://stuffbabiesneed.com/blog/building-raspberry-pi-baby-monitor-part-one/
+    * http://blog.alexwilde.net/make-a-raspberry-pi-baby-monitor/
     * Video monitor
     * Interactive Child's mobile
+    * http://duino4projects.com/interactive-childs-mobile-using-arduino/
++ http://www.oddee.com/item_98567.aspx
+    * Potty designed to entertain by holding ipad
+    * Band with sensor to tweet when baby kicks
+    * Bathroom Baby Harness: hang your baby while you use the potty (awesome)
++ http://wdc.com/ventito/tech/trending/the-wired-baby-5-innovative-gadgets-for-new-parents
+    * Bluetooth swaddler
+    * Bluetooth pacifier, see baby's temperature
+    * Bluetooth bottle, determine how fast your baby is drinking
++ 
 
 ##  The New Reality strategies to cope with your limited time
 + The new reality is you have less time on your hands.
@@ -304,12 +322,20 @@ Now you have done it...you and your spouse created a tiny human. Despite all the
 + https://www.bornyet.com/
 + http://www.birthvillage.com/birth-announcements.php
 
-#### Planning
-+ http://www.babycenter.com/maternity-leave-checklist
-+ http://www.pcmag.com/slideshow/story/308706/11-tech-gadgets-for-babies
+#### Early Years
++ http://mammababy.lifenstats.com
++ http://makesafehappen.com/
 + http://dayoneapp.com/
 + https://www.lifecake.com/
+
+#### Geek Out
 + http://www.pcmag.com/slideshow/story/308706/11-tech-gadgets-for-babies
++ http://www.oddee.com/item_98567.aspx
+
+#### Planning
++ http://www.babycenter.com/maternity-leave-checklist
+
+
 
 ### Get Organized
 + http://lifehacker.com/how-to-prepare-your-career-before-having-a-baby-1686911785
