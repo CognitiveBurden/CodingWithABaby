@@ -348,7 +348,7 @@ Now you have done it...you and your spouse created a tiny human. Despite all the
 
 
 
-### Get Organized
+### Career
 + http://lifehacker.com/how-to-prepare-your-career-before-having-a-baby-1686911785
 + https://todoist.com/
 + https://calendar.sunrise.am/
@@ -356,6 +356,9 @@ Now you have done it...you and your spouse created a tiny human. Despite all the
 + https://itunes.apple.com/us/app/microsoft-outlook/id951937596?mt=8
 + http://pomodorotechnique.com/
 + http://mtcb.pwop.com/
++ http://dotnetrocks.com/
++ http://distributedpodcast.com/
++ http://hanselminutes.com/
 
 ### Children With Technology
 + http://lifehacker.com/5946947/how-can-i-kid-proof-my-pc-and-gadgets
