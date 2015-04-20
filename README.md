@@ -158,7 +158,7 @@ Now you have done it...you and your spouse created a tiny human. Despite all the
     * Bluetooth swaddler
     * Bluetooth pacifier, see baby's temperature
     * Bluetooth bottle, determine how fast your baby is drinking
-+ 
+
 
 ##  The New Reality strategies to cope with your limited time
 + The new reality is you have less time on your hands.
@@ -329,8 +329,19 @@ Now you have done it...you and your spouse created a tiny human. Despite all the
 + https://www.lifecake.com/
 
 #### Geek Out
-+ http://www.pcmag.com/slideshow/story/308706/11-tech-gadgets-for-babies
++ http://www.pcmag.com/slideshow/story/308706/11-tech-gadgets-for-
++ http://www.iiamo.com/products/iiamo-go-family/go/
 + http://www.oddee.com/item_98567.aspx
++ https://www.4moms.com/origami
++ http://www.mobisante.com/products/product-overview/
++ https://www.owletcare.com/
++ https://www.4moms.com/rockaroo
++ http://www.oddee.com/item_98567.aspx
++ http://wdc.com/ventito/tech/trending/the-wired-baby-5-innovative-gadgets-for-new-parents
++ http://mattkaar.com/blog/2012/12/01/raspberry-pi-as-a-baby-monitor/
++ http://stuffbabiesneed.com/blog/building-raspberry-pi-baby-monitor-part-one/
++ http://blog.alexwilde.net/make-a-raspberry-pi-baby-monitor/
++ http://duino4projects.com/interactive-childs-mobile-using-arduino/
 
 #### Planning
 + http://www.babycenter.com/maternity-leave-checklist
