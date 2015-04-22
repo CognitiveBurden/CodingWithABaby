@@ -342,6 +342,7 @@ Now you have done it...you and your spouse created a tiny human. Despite all the
 + http://stuffbabiesneed.com/blog/building-raspberry-pi-baby-monitor-part-one/
 + http://blog.alexwilde.net/make-a-raspberry-pi-baby-monitor/
 + http://duino4projects.com/interactive-childs-mobile-using-arduino/
++ http://mimobaby.com/
 
 #### Planning
 + http://www.babycenter.com/maternity-leave-checklist
@@ -386,6 +387,9 @@ Now you have done it...you and your spouse created a tiny human. Despite all the
 + https://itunes.apple.com/us/app/hopscotch-hd/id617098629?mt=8
 + http://www.edutopia.org/blog/7-apps-teaching-children-coding-anna-adam
 + https://scratch.mit.edu/
++ https://www.gethopscotch.com/
++ https://www.kodable.com/
++ http://www.scratchjr.org/
 
 
 ### TODO:
