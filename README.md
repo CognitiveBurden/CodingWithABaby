@@ -388,6 +388,7 @@ Now you have done it...you and your spouse created a tiny human. Despite all the
 + http://www.saferinternet.org.uk/
 + http://www.connectsafely.org/
 + http://www.connectsafely.org/wp-content/uploads/sc_cyberbullying.pdf
++ http://www2.ed.gov/policy/gen/guid/fpco/ferpa/index.html
 
 #### How to teach coding
 + http://allthingsd.com/20130506/can-these-ipad-apps-teach-your-kid-to-code/
@@ -454,7 +455,7 @@ Now you have done it...you and your spouse created a tiny human. Despite all the
 
 1. Verify titles in outline match the titles on main slides
 2. Verify icons match in outline and title slides
-2. Add the Title bar to outline slide
+2. Screen Time Break Down should be only a bar chart look at pg 10 of 0-8 report
 3. Check the darkness on the light text throughout the slide deck
 4. Change debugging in production slide to match a normal slide and use the pregnancy icon as main icon b/c this is confusing on where you are in the presentation
 5. Pictures of me and the boys
