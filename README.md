@@ -329,7 +329,7 @@ Now you have done it...you and your spouse created a tiny human. Despite all the
 + https://www.lifecake.com/
 
 #### Geek Out
-+ http://www.pcmag.com/slideshow/story/308706/11-tech-gadgets-for-
++ http://www.pcmag.com/slideshow/story/308706/11-tech-gadgets-for-new-parents
 + http://www.iiamo.com/products/iiamo-go-family/go/
 + http://www.oddee.com/item_98567.aspx
 + https://www.4moms.com/origami
@@ -377,9 +377,17 @@ Now you have done it...you and your spouse created a tiny human. Despite all the
 + http://www.bluemanateebooks.com/home/digital_playground_data/screen_time_trends.html
 + https://www.parentmap.com/article/are-kids-watching-less-common-sense-media-study-spotlights-screen-time-trends
 + https://itunes.apple.com/us/app/kids-media/id504932051?mt=8
++ https://www.commonsensemedia.org/research/zero-to-eight-childrens-media-use-in-america-2013
 
 ####Digital Gaurdians
 + https://www.commonsensemedia.org/privacy-and-internet-safety/how-do-i-protect-my-kids-privacy-online
++ http://www.coppa.org/
++ https://www.snapchat.com/safety
++ http://www.connectsafely.org/wp-content/uploads/snapchat_parents_guide.pdf
++ http://www.ikeepsafe.org/
++ http://www.saferinternet.org.uk/
++ http://www.connectsafely.org/
++ http://www.connectsafely.org/wp-content/uploads/sc_cyberbullying.pdf
 
 #### How to teach coding
 + http://allthingsd.com/20130506/can-these-ipad-apps-teach-your-kid-to-code/
@@ -439,3 +447,23 @@ Now you have done it...you and your spouse created a tiny human. Despite all the
 
 #Extra
 + http://www.healthline.com/health-slideshow/top-pregnancy-iphone-android-apps#1
+
+******************************************************************************************
+# TODO:
+******************************************************************************************
+
+1. Verify titles in outline match the titles on main slides
+2. Verify icons match in outline and title slides
+2. Add the Title bar to outline slide
+3. Check the darkness on the light text throughout the slide deck
+4. Change debugging in production slide to match a normal slide and use the pregnancy icon as main icon b/c this is confusing on where you are in the presentation
+5. Pictures of me and the boys
+6. Work on transition from Keeping organized and staying current
+7. Work on adding the why is this talk relevant to non-parents
+    + We are creator of technology so we should be aware of concerns of parents when creating
+    + You may some day have kids
+    + You may interact with a kid and technology 
+    + Preparing to go on extended leave from work is not just for pregnancy and a baby
+    + Staying organized is a universal issue
+    + Staying up to date with technology is a universal issue
+- Don't forget to have a shout out to Cassandra Faris for the idea for the talk
