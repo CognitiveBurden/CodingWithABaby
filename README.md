@@ -1,7 +1,7 @@
 # Title:    
 Coding with a Baby (Lessons learned from a developer with small children)
 # Abstract:
-Now you have done it...you and your spouse created a tiny human. Despite all the software you have written, the child will be your greatest creation. Did you know there are apps to track your child's every sleeping and waking moment, as well as groups of apps which integrate to streamline your daily workflow, so you can spend more time with your family? Come and learn how a developer can survive having a baby with tips, tricks, and technologies to ease the transition into parenthood.
+Now you have done it...you and your spouse created a tiny human. Despite all the software you have written, the child will be your greatest creation. Did you know there are apps to track your child's every sleeping and waking moment, as well as groups of apps which integrate to streamline your daily workflow, so you can spend more time with your family? Do you wonder how much technology you should expose your little one to? Come and learn how a developer can survive having a baby with tips, tricks, and technologies to ease the transition into parenthood, and your child's first exposure to technology. 
 
 ## Outline/Timeline
 + Talk about the timeline of activities (show a timeline as the outline)
